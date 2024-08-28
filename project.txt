@@ -1,2 +1,3 @@
 une liste
-d'étapes pour un projet
+phase pour projet
+1. Analyse du projet
