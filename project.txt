@@ -1,3 +1,4 @@
 une liste
-phase pour projet
-1. Analyse du projet
+étapes du projet
+1.Etude du projet
+2.Conception du projet
