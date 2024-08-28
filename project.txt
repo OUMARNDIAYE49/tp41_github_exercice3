@@ -1,2 +1,4 @@
 une liste
-d'étapes pour un projet
+étapes du projet
+1.Etude du projet
+2.Conception du projet
